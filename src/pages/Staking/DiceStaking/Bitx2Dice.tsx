@@ -31,7 +31,7 @@ import arrow from 'assets/img/arrow.png';
 import btxLogo from 'assets/img/BTX logo.png';
 import coin from 'assets/img/coin.png';
 import elrondLogo from 'assets/img/Elrond logo.png';
-import DiceLogo from 'assets/img/token logos/DICE.png';
+import DiceLogo from 'assets/img/token_logos/DICE.png';
 import AlertModal from 'components/AlertModal';
 
 import {

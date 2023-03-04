@@ -1,11 +1,11 @@
-//import BTX from 'assets/img/token logos/BTX.png';
-import CPA from 'assets/img/token logos/CPA.png';
-//import DICE from 'assets/img/token logos/DICE.png';
-import HETO from 'assets/img/token logos/HETO.png';
-import LPAD from 'assets/img/token logos/LPAD.png';
-import MARE from 'assets/img/token logos/MARE.png';
-import MEX from 'assets/img/token logos/MEX.png';
-import EFOO from 'assets/img/token logos/EFOO.svg';
+//import BTX from 'assets/img/token_logos/BTX.png';
+import CPA from 'assets/img/token_logos/CPA.png';
+//import DICE from 'assets/img/token_logos/DICE.png';
+import HETO from 'assets/img/token_logos/HETO.png';
+import LPAD from 'assets/img/token_logos/LPAD.png';
+import MARE from 'assets/img/token_logos/MARE.png';
+import MEX from 'assets/img/token_logos/MEX.png';
+import EFOO from 'assets/img/token_logos/EFOO.svg';
 
 import * as config from '../../conf';
 

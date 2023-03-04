@@ -29,7 +29,7 @@ import Modal from 'react-modal';
 import arrow from 'assets/img/arrow.png';
 import coin from 'assets/img/coin.png';
 import elrondLogo from 'assets/img/Elrond logo.png';
-import EFOOLogo from 'assets/img/token logos/EFOO.svg';
+import EFOOLogo from 'assets/img/token_logos/EFOO.svg';
 import AlertModal from '../../../components/AlertModal';
 
 import {

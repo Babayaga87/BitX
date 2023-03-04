@@ -1,5 +1,5 @@
-import StepxLogo from 'assets/img/token logos/STEPX.png';
-import LpadLogo from 'assets/img/token logos/LPAD.png';
+import StepxLogo from 'assets/img/token_logos/STEPX.png';
+import LpadLogo from 'assets/img/token_logos/LPAD.png';
 
 // mainnet
 export const TOKENS = {

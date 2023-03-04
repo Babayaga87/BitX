@@ -29,8 +29,8 @@ import Modal from 'react-modal';
 import arrow from 'assets/img/arrow.png';
 import coin from 'assets/img/coin.png';
 import elrondLogo from 'assets/img/Elrond logo.png';
-import HetoLogo from 'assets/img/token logos/HETO.png';
-import BitxLogo from 'assets/img/token logos/BTX.png';
+import HetoLogo from 'assets/img/token_logos/HETO.png';
+import BitxLogo from 'assets/img/token_logos/BTX.png';
 import AlertModal from '../../../components/AlertModal';
 
 import {

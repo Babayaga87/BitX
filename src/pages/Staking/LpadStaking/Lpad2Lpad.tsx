@@ -26,7 +26,7 @@ import {
 import axios from 'axios';
 import Modal from 'react-modal';
 import arrow from 'assets/img/arrow.png';
-import lpadLogo from 'assets/img/token logos/LPAD.png';
+import lpadLogo from 'assets/img/token_logos/LPAD.png';
 import coin from 'assets/img/coin.png';
 import elrondLogo from 'assets/img/Elrond logo.png';
 import AlertModal from 'components/AlertModal';

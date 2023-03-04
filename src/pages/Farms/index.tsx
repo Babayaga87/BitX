@@ -5,8 +5,8 @@ import { styled } from '@mui/material/styles';
 import { Row, Col } from 'react-bootstrap';
 import { AiFillLock, AiOutlineInfoCircle } from "react-icons/ai";
 import Modal from 'react-modal';
-import BTXLogo from 'assets/img/token logos/BTX.png';
-import EGLDLogo from 'assets/img/token logos/EGLD.png';
+import BTXLogo from 'assets/img/token_logos/BTX.png';
+import EGLDLogo from 'assets/img/token_logos/EGLD.png';
 import LPFarmLogo from 'assets/img/LP Farm.png';
 import './index.scss';
 

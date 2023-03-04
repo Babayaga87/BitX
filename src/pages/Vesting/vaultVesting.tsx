@@ -8,7 +8,7 @@ import { Row, Col, ProgressBar } from 'react-bootstrap';
 import { Link, useLocation } from "react-router-dom";
 import { routeNames } from 'routes';
 
-import BTX from 'assets/img/token logos/BTX.png';
+import BTX from 'assets/img/token_logos/BTX.png';
 
 import {
     refreshAccount,

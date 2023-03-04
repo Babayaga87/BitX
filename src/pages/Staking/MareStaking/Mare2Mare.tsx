@@ -29,7 +29,7 @@ import Modal from 'react-modal';
 import arrow from 'assets/img/arrow.png';
 import coin from 'assets/img/coin.png';
 import elrondLogo from 'assets/img/Elrond logo.png';
-import MareLogo from 'assets/img/token logos/MARE.png';
+import MareLogo from 'assets/img/token_logos/MARE.png';
 import AlertModal from '../../../components/AlertModal';
 import { MARE_TOKEN_DECIMALS } from '../../../config';
 
